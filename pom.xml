@@ -12,6 +12,8 @@
     <modules>
         <module>ffee-portal</module>
         <module>acme-jee-demo1</module>
+        <module>jpa-demos</module>
+        <module>jpa-demos2</module>
     </modules>
 
 </project>
